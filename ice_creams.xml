@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ice_creams>
+
+  <ice_cream>
+        <name>Chocolate Fudge Brownie</name>
+            <brand>Ben Jerry's</brand>
+                <flavors>
+                    <flavor>Chocolate</flavor>
+                    <flavor>Fudge</flavor>
+                    <flavor>Brownie pieces</flavor>
+                </flavors>
+                <ingredients>
+                    <ingredient>Milk</ingredient>
+                    <ingredient>Cream</ingredient>
+                    <ingredient>Sugar</ingredient>
+                    <ingredient>Cocoa</ingredient>
+                    <ingredient>Egg yolks</ingredient>
+                    <ingredient>Brownie pieces</ingredient>
+                    <ingredient>Fudge chunks</ingredient>
+                </ingredients>
+        <price>4.99</price>
+    </ice_cream>
+
+    <ice_cream>
+        <name>Strawberry Cheesecake</name>
+            <brand>Haagen-Dazs</brand>
+                <flavors>
+                    <flavor>Strawberry</flavor>
+                    <flavor>Cheesecake</flavor>
+                    <flavor>Graham cracker swirl</flavor>
+                </flavors>
+                <ingredients>
+                    <ingredient>Cream</ingredient>
+                    <ingredient>Skim milk</ingredient>
+                    <ingredient>Sugar</ingredient>
+                    <ingredient>Egg yolks</ingredient>
+                    <ingredient>Strawberries</ingredient>
+                    <ingredient>Cream cheese</ingredient>
+                    <ingredient>Graham cracker pieces</ingredient>
+                </ingredients>
+        <price>5.49</price>
+  </ice_cream>
+
+    <ice_cream>
+        <name>Mint Chocolate Chip</name>
+            <brand>Baskin-Robbins</brand>
+                <flavors>
+                    <flavor>Mint</flavor>
+                    <flavor>Chocolate chips</flavor>
+                </flavors>
+                <ingredients>
+                    <ingredient>Milk</ingredient>
+                    <ingredient>Cream</ingredient>
+                    <ingredient>Sugar</ingredient>
+                    <ingredient>Egg yolks</ingredient>
+                    <ingredient>Mint extract</ingredient>
+                    <ingredient>Chocolate chips</ingredient>
+                    <ingredient>Green food coloring</ingredient>
+                </ingredients>
+        <price>3.99</price>
+  </ice_cream>
+
+    <ice_cream>
+        <name>Vanilla Bean</name>
+            <brand>Tillamook</brand>
+                <flavors>
+                    <flavor>Vanilla</flavor>
+                    <flavor>Bean specks</flavor>
+                </flavors>
+                <ingredients>
+                    <ingredient>Milk</ingredient>
+                    <ingredient>Cream</ingredient>
+                    <ingredient>Sugar</ingredient>
+                    <ingredient>Egg yolks</ingredient>
+                    <ingredient>Vanilla extract</ingredient>
+                    <ingredient>Vanilla bean specks</ingredient>
+                </ingredients>
+        <price>4.29</price>
+  </ice_cream>
+
+    <ice_cream>
+        <name>Rocky Road</name>
+            <brand>Blue Bell</brand>
+                <flavors>
+                    <flavor>Chocolate</flavor>
+                    <flavor>Marshmallows</flavor>
+                    <flavor>Almonds</flavor>
+                </flavors>
+                <ingredients>
+                    <ingredient>Milk</ingredient>
+                    <ingredient>Cream</ingredient>
+                    <ingredient>Sugar</ingredient>
+                    <ingredient>Cocoa</ingredient>
+                    <ingredient>Marshmallows</ingredient>
+                    <ingredient>Almonds</ingredient>
+                </ingredients>
+        <price>4.99</price>
+    </ice_cream>
+</ice_creams>
